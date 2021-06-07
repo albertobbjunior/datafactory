@@ -1,0 +1,9 @@
+{
+	"name": "df-bootcamp2021",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "821f680e-496c-45a3-92f0-fdc91bc4b7d6",
+		"tenantId": "2c7a2a51-9c3e-4f1d-819e-8f14239c7cfe"
+	}
+}
